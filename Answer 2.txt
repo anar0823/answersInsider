@@ -1,0 +1,7 @@
+Question 2
+
+1) Personalized Recommendations: Based on a user’s browsing history, search queries, and past purchases, products are suggested that are most likely relevant to their preferences. This is driven by collaborative filtering (comparing with similar users) and content-based filtering (matching products with user interest).
+2) Trending or Popular Products: Products that are widely viewed, bought, or rated highly by other users may be recommended to attract more engagement.
+3) Cross-Selling (Product Detail Pages): On product pages, recommendations may include accessories or complementary products (e.g., suggesting a phone case when looking at a smartphone). These are often manually curated or algorithmically driven.
+4) Upselling (Cart Pages): In the cart section, more premium or alternative products might be recommended to encourage users to consider higher-value purchases.
+5) Retargeting and Advertisements: Recommendations may also be influenced by paid placements or retargeting ads, promoting specific products or categories.

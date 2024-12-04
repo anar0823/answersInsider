@@ -1,0 +1,25 @@
+Question 1
+
+1) Functional Testing:
+a) Verify that the pencil writes properly on different paper types.
+b) Test the eraser's ability to cleanly erase marks without damaging the paper.
+c) Check the durability of the lead and the eraser.
+
+2) Usability Testing:
+a) Assess the pencil’s comfort during prolonged use.
+b) Test the ergonomics for different hand sizes.
+c) Evaluate the ease of erasing and sharpening.
+
+3) Performance Testing:
+a) Measure how long the pencil can write before it needs sharpening.
+b) Test how many erasures the eraser can handle before wearing out.
+
+4) Load Testing:
+a) Test the pencil’s lead under varying pressure levels to check for breaking points.
+
+5) Stress Testing:
+a) Apply extreme force on the pencil to test its structural integrity.
+b) Test the eraser under aggressive use to see if it detaches or wears out quickly.
+
+6) Security Testing:
+a) Ensure that any materials used in the pencil (example: paint, rubber) are non-toxic and safe for users.
